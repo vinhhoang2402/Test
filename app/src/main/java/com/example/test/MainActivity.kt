@@ -11,6 +11,11 @@ class MainActivity : AppCompatActivity() {
         Log.d("vionhmaster","vinh")
         Log.d("vinh1","vinh")
         cc()
+        vinh()
+    }
+
+    private fun vinh() {
+        Log.d("vvvvvvv","jjjjjjjjjj")
         kkk()
     }
 
@@ -18,7 +23,7 @@ class MainActivity : AppCompatActivity() {
         Log.d("vinh5","asasasasasasasasasas")
     }
     private fun lllllllll(){
-        
+
     }
     private fun ooooooooooo(id : Int){
 
