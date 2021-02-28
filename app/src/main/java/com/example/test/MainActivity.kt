@@ -11,6 +11,11 @@ class MainActivity : AppCompatActivity() {
         Log.d("vionhmaster","vinh")
         Log.d("vinh1","vinh")
         cc()
+        kkk()
+    }
+
+    private fun kkk() {
+        Log.d("vinh5","asasasasasasasasasas")
     }
 
     private fun cc() {
