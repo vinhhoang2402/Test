@@ -23,13 +23,7 @@ class MainActivity : AppCompatActivity() {
         Log.d("vinh5","asasasasasasasasasas")
     }
     private fun lllllllll(){
-
-    }
-    private fun lllllllll(){
-
-    }
-    private fun ooooooooooo(id : Int){
-
+        
     }
 
     private fun cc() {
