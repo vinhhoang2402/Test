@@ -10,6 +10,11 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
         init()
         Log.d("test2","vinh")
+        cc()
+    }
+
+    private fun cc() {
+        
     }
 
     private fun init() {
