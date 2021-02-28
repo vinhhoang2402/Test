@@ -9,5 +9,11 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
         Log.d("vionhmaster","vinh")
+        Log.d("vinh1","vinh")
+        cc()
+    }
+
+    private fun cc() {
+        Log.d("vvv","sdskjdhkasj")
     }
 }
