@@ -29,6 +29,9 @@ class MainActivity : AppCompatActivity() {
     private fun lllllllll(){
         
     }
+    private fun ppppppp(){
+
+    }
 
     private fun cc() {
         Log.d("vvv","sdskjdhkasj")
