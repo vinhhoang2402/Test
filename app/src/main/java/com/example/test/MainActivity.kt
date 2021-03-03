@@ -18,4 +18,7 @@ class MainActivity : AppCompatActivity() {
     private fun new(){
 
     }
+    private fun hhhh(){
+
+    }
 }
