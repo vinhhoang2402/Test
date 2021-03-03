@@ -17,6 +17,9 @@ class MainActivity : AppCompatActivity() {
     private fun kkk() {
         Log.d("vinh5","asasasasasasasasasas")
     }
+    private fun lllllllll(){
+        
+    }
 
     private fun cc() {
         Log.d("vvv","sdskjdhkasj")
