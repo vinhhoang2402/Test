@@ -25,6 +25,9 @@ class MainActivity : AppCompatActivity() {
     private fun lllllllll(){
 
     }
+    private fun lllllllll(){
+
+    }
     private fun ooooooooooo(id : Int){
 
     }
