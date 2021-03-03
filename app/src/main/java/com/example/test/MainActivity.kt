@@ -15,6 +15,9 @@ class MainActivity : AppCompatActivity() {
     fun test1(){
 
     }
+    fun hhhhh(test4: String){
+        Log.d("vinh",test4)
+    }
     fun test2(id: Int){
 
     }
