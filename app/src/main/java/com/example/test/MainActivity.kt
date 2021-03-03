@@ -14,6 +14,10 @@ class MainActivity : AppCompatActivity() {
         vinh()
     }
 
+    private fun vinh1(){
+
+    }
+
     private fun vinh() {
         Log.d("vvvvvvv","jjjjjjjjjj")
         kkk()
