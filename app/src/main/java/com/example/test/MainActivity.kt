@@ -21,6 +21,9 @@ class MainActivity : AppCompatActivity() {
     private fun hhhh(){
 
     }
+    private fun vinh(){
+        Log.d("sdsdsd","vinh")
+    }
     private fun kkkkkk(){
 
     }
