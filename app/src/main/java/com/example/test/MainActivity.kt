@@ -20,6 +20,9 @@ class MainActivity : AppCompatActivity() {
     private fun lllllllll(){
         
     }
+    private fun ooooooooooo(id : Int){
+
+    }
 
     private fun cc() {
         Log.d("vvv","sdskjdhkasj")
