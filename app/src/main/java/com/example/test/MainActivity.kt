@@ -21,4 +21,7 @@ class MainActivity : AppCompatActivity() {
     private fun hhhh(){
 
     }
+    private fun kkkkkk(){
+
+    }
 }
