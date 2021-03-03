@@ -10,33 +10,9 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
         Log.d("vionhmaster","vinh")
         Log.d("vinh1","vinh")
-        cc()
-        vinh()
     }
 
-    private fun vinh1(){
-
-    }
-
-    private fun vinh() {
-        Log.d("vvvvvvv","jjjjjjjjjj")
-        kkk()
-    }
-
-    private fun kkk() {
-        Log.d("vinh5","asasasasasasasasasas")
-    }
-    private fun lllllllll(){
-        
-    }
-    private fun ppppppp(){
-
-    }
     private fun ooooooooooo(id : Int){
 
-    }
-
-    private fun cc() {
-        Log.d("vvv","sdskjdhkasj")
     }
 }
