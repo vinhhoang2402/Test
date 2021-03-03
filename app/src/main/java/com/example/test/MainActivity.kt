@@ -15,4 +15,7 @@ class MainActivity : AppCompatActivity() {
     private fun ooooooooooo(id : Int){
 
     }
+    private fun new(){
+
+    }
 }
