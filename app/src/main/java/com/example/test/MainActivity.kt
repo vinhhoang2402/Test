@@ -10,5 +10,9 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
         Log.d("vinh","test 2")
         Log.d("vinh","test1")
+
+    }
+    fun test1(){
+
     }
 }
